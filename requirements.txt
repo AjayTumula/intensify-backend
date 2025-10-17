@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+openpyxl
+xlrd
+pdfplumber
+elasticsearch==8.11.1
+google-cloud-aiplatform
+python-dotenv
